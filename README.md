@@ -1,10 +1,9 @@
 #  👋 Hi, I’m Dunjie Lu
-- 👀 I’m an **undergraduate student** at **Sun-Yatsen University**
+- 👀 I’m an **incoming PhD student** at **The University of Hong Kong** (HKU)
 - 💻 I’m currently working on VLM-agent problems at [HKUNLP](https://hkunlp.github.io/) with [Tao Yu](https://taoyds.github.io/)
 - 💫 I'm intersted in:
   - 🤖 Visual GUI/Computer use Agent
-  - 🏀 Basketball/NBA
-  - 🎶 Pop music  
+  - 🏀 Basketball/NBA  
 - 📫 How to reach me: ludj1219@gmail.com/dunjielu@gmail.com
 
 <!---
