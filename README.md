@@ -1,5 +1,5 @@
 #  👋 Hi, I’m Dunjie Lu
-- 👀 I’m an **incoming PhD student** at **The University of Hong Kong** (HKU)
+- 👀 I’m an **1st-year PhD student** at **The University of Hong Kong** (HKU)
 - 💻 I’m currently working on VLM-agent problems at [HKUNLP](https://hkunlp.github.io/) with [Tao Yu](https://taoyds.github.io/)
 - 💫 I'm intersted in:
   - 🤖 Visual GUI/Computer use Agent
